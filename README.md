@@ -2,7 +2,7 @@
 
 Submitted by: **Harmony Hamilton**
 
-This web app: **Web app that showcases museums and art exhibits in the Orlando/Central Florida community **
+This web app: Web app that showcases museums and art exhibits in the Orlando/Central Florida community
 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
